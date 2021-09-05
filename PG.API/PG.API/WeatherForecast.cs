@@ -2,6 +2,7 @@
 namespace PG.API;
 public class WeatherForecast
 {
+    // comment added for test...
     public DateTime Date { get; set; }
 
     public int TemperatureC { get; set; }
